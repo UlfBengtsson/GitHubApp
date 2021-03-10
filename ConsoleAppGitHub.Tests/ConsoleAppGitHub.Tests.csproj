@@ -19,4 +19,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleAppGitHub\ConsoleAppGitHub.csproj" />
+  </ItemGroup>
+
 </Project>
