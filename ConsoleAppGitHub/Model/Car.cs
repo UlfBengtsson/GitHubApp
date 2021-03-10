@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleAppGitHub.Model
 {
-    class Car
+    public class Car
     {
     }
 }
