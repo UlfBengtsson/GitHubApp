@@ -8,5 +8,11 @@ namespace ConsoleAppGitHub.Data
     public class Dealer
     {
         public List<Car> CarsToSell { get; set; }
+
+
+        public void Mess()
+        {
+
+        }
     }
 }
